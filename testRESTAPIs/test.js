@@ -1,0 +1,1 @@
+﻿var total = 100;var raz = false;DataGenUtils.generateData(ds.DataClass,total,raz);
